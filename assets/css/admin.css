@@ -1,0 +1,15 @@
+.weim-wrap .subsubsub {
+	margin-bottom: 1em;
+}
+
+.weim-wrap .form-table td .description {
+	margin-top: 4px;
+}
+
+.weim-location-picker {
+	height: 320px;
+	max-width: 640px;
+	border: 1px solid #ccd0d4;
+	border-radius: 6px;
+	z-index: 0;
+}
